@@ -1,0 +1,12 @@
+.Lista{
+    color: #212529;
+    background-color: #fff;
+    width: 100%;
+    max-width: 565px;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+.Aviso{
+    color: #343A40;
+}

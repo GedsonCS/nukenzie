@@ -1,0 +1,88 @@
+form{
+    
+    padding: 1rem 2rem 1rem 1rem;
+    width: 100%;
+    max-width: 300px;
+    border: solid 1px #E9ECEF;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 2rem 0 2%;
+    
+}
+
+.Div_Descricao{
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+
+.Descricao{
+    color: #212529;
+    margin-bottom: 1rem;
+}
+
+.input_Descricao{
+    width: 314px;
+    height: 53px;
+    max-width: 90%;
+    border: solid 1px rgba(0, 0, 0, 0.1);
+}
+
+.Div_Valor{
+    display: flex;
+    flex-direction: column;
+    border: none;
+}
+
+.label_valor{
+color: #212529;
+margin:1rem 0 21px 0;
+}
+
+.Valor{
+    width: 128px;
+    height: 48px;
+    border: solid 1px rgba(0, 0, 0, 0.1);
+}
+
+.Valor:hover{
+    border: #212529 solid 1px;
+}
+
+.container_valor{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tipo_valor{
+    cursor: pointer;
+    width: 150px;
+    height: 52px;
+    border: solid 1px rgba(0, 0, 0, 0.1);
+}
+
+.Descricao_tipo_valor{
+    color: #212529;
+    
+}
+
+.Botao_Inserir_Valor{
+    width: 314px;
+    height: 48px;
+    background-color: #FD377E;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.span_Descricao{
+    color: #868E96;
+    padding: 10px 0 0 0;
+}
+
+.options{
+    height: 3rem;
+}

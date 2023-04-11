@@ -1,0 +1,28 @@
+.Container_saldo{
+    margin: 1rem 0 0 2%;
+    padding: 1rem 2rem 1rem 1rem;
+    width: 90%;
+    max-width: 300px;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #E9ECEF;
+    border-radius: 4px;
+}
+.Saldo{
+    color: #FD377E;
+}
+
+.Div_Saldo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.String_Valor{
+    color: #212529;
+}
+
+.Aviso{
+    color: #343A40;
+}

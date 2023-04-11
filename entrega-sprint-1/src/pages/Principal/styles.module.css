@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-color: #fff;
+}
+
+.Body{
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 1024px;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+
+@media(min-width: 769px){
+    .Body_sem_Cabecalho{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

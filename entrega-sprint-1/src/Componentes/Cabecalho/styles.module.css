@@ -1,0 +1,24 @@
+.Header{
+    max-width: 100%;
+    margin: 0 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    padding: 2rem 0;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.11);
+    background-color: #fff;
+}
+
+.Botao_Inicio{
+    background-color: #E9ECEF;
+    border: #E9ECEF;
+    width: 64px;
+    height: 40px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.Botao_Inicio:hover{
+    background-color: #868E96;
+}
